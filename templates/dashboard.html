@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <div class="card dashboard">
+      <h2>✅ Dashboard</h2>
+      <p class="welcome">Welcome, <strong>{{ user }}</strong>!</p>
+      <p>You are successfully logged in.</p>
+      <p>This is a <strong>protected page</strong> — only logged-in users can see this.</p>
+      <br>
+      <a href="/logout" class="logout-btn">🚪 Logout</a>
+    </div>
+  </div>
+</body>
+</html>
