@@ -2,13 +2,13 @@
 ## User Authentication System
 A Python Fullstack Web Application built using Flask, SQLite and Werkzeug Security.
 
----
+
 
 ## 📋 Project Overview
 
 This is a secure **User Authentication System** that extends Task 1 by adding user registration, login, session management, and access control. The application demonstrates backend security fundamentals using Flask sessions and password hashing.
 
----
+
 
 ## ✅ Features Implemented
 
