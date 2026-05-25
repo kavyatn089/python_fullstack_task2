@@ -131,13 +131,14 @@ Logout clears the session
 ### 📝 Registration Page
 > User enters a unique username and password to create an account.
 > Password is hashed before storing — never saved as plain text.
+img width="982" height="494" alt="Regisitor" src="https://github.com/user-attachments/assets/c905fd62-8ba3-4658-a848-82a636348158" />
 
 
 ---
 
 ### 🔑 Login Page
 > User enters credentials. Flask verifies the hashed password using Werkzeug.
-
+<img width="838" height="483" alt="login page" src="https://github.com/user-attachments/assets/5814716b-6d17-4303-92ff-b2fea6d7005a" />
 
 
 ---
@@ -145,6 +146,7 @@ Logout clears the session
 ### 🏠 Dashboard Page
 > Protected page accessible only to logged-in users.
 > Displays a welcome message with the username from session.
+<img width="851" height="430" alt="dashboard" src="https://github.com/user-attachments/assets/47184c9b-1e28-4bd8-8ff6-70f6b8cc0d36" />
 
 
 ---
