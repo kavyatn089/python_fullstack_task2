@@ -19,7 +19,7 @@ This is a secure **User Authentication System** that extends Task 1 by adding us
 5. ✅ Password Hashing using Werkzeug Security
 6. ✅ Clean UI with styled forms and pages
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -33,11 +33,11 @@ This is a secure **User Authentication System** that extends Task 1 by adding us
 | HTML | Frontend structure |
 | CSS | Styling and design |
 
----
+
 
 ## 📁 Project Structure
 
-```
+
 python_fullstack_task2/
 │
 ├── app.py                 → Flask backend (auth routes & database logic)
@@ -48,9 +48,9 @@ python_fullstack_task2/
     ├── register.html      → Registration form
     ├── login.html         → Login form
     └── dashboard.html     → Protected dashboard page
-```
 
----
+
+
 
 ## ▶️ How to Run
 
