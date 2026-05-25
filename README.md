@@ -132,14 +132,13 @@ Logout clears the session
 > User enters a unique username and password to create an account.
 > Password is hashed before storing — never saved as plain text.
 
-![Register Page](screenshots/register.png)
 
 ---
 
 ### 🔑 Login Page
 > User enters credentials. Flask verifies the hashed password using Werkzeug.
 
-![Login Page](screenshots/login.png)
+
 
 ---
 
@@ -147,7 +146,6 @@ Logout clears the session
 > Protected page accessible only to logged-in users.
 > Displays a welcome message with the username from session.
 
-![Dashboard Page](screenshots/dashboard.png)
 
 ---
 
