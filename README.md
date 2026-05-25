@@ -131,7 +131,8 @@ Logout clears the session
 ### 📝 Registration Page
 > User enters a unique username and password to create an account.
 > Password is hashed before storing — never saved as plain text.
-img width="982" height="494" alt="Regisitor" src="https://github.com/user-attachments/assets/c905fd62-8ba3-4658-a848-82a636348158" />
+<img width="982" height="494" alt="Regisitor" src="https://github.com/user-attachments/assets/3ab16e2e-b2fb-4d7c-8c77-6ffcba27cd67" />
+
 
 
 ---
